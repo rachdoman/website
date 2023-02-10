@@ -1,0 +1,18 @@
+{
+  "name": "Rachel Doman",
+  "pennkey": "rdoman",
+  "major": "Finance",
+  "school": "Wharton",
+  "bio": "Hi! I'm Rachel. I'm studying finance with an interest in computer science and cinema and media studies. Lover of pasta, biking, and chess.",
+  "hometown": "Atlanta, Georgia",
+  "team": "Penn Courses",
+  "roles": ["Business Development"],
+  "photo": "https://media.licdn.com/dms/image/D4E03AQG3OFi72yl3ig/profile-displayphoto-shrink_800_800/0/1669180853761?e=1681344000&v=beta&t=DvYh7-KQQa5GZHv0KPdo-0HDJ-v7eeRuQOQIKG90UVY",
+  "linkedin": "https://www.linkedin.com/in/racheldoman/",
+  "website": "https://rachdoman.github.io/",
+  "github": "https://github.com/rachdoman",
+  "semester_joined": "2022A",
+  "alumnus": false,
+  "graduation_year": 2026,
+  "job": null
+}
